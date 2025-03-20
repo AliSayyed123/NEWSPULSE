@@ -13,7 +13,7 @@ This project fetches news articles about a company, summarizes them, checks thei
 
 ## Files
 - **`app.py`**: A standalone Streamlit app that does everything in one file.
-- **`main.py`**: A FastAPI server that works with `utils.py` for an API.
+- **`api.py`**: A FastAPI server that works with `utils.py` for an API.
 - **`utils.py`**: Helper functions for the FastAPI version (fetching, summarizing, etc.).
 - **`requirements.txt`**: List of libraries needed.
 - **`README.md`**: This file!
