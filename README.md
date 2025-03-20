@@ -24,7 +24,7 @@ This project fetches news articles about a company, summarizes them, checks thei
 
 ### Libraries
 - **Streamlit**: Builds the web app in `app.py`.
-- **FastAPI**: Creates the API server in `main.py`.
+- **FastAPI**: Creates the API server in `api.py`.
 - **Pydantic**: Sets up data format for API requests.
 - **Requests**: Gets web pages from Google News and articles.
 - **BeautifulSoup4**: Reads HTML to find news links and text.
