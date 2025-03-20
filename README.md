@@ -51,17 +51,20 @@ This project fetches news articles about a company, summarizes them, checks thei
    git clone https://github.com/AliSayyed123/News-Summarizer-and-Talk-to-Speech-model.git
    cd News-Summarizer-and-Talk-to-Speech-model
    Running the Project
-**You can run the project in two ways:**
+# Project Name
 
-** Run the Streamlit Web App**
-**This provides a web-based UI to interact with the model.**
+## You can run the project in two ways:
 
-'''bash
+### Run the Streamlit Web App  
+This provides a web-based UI to interact with the model.  
+
+```bash
 streamlit run app.py
+   ```
+###To run the API
+**This starts the FastAPI server using Uvicorn.**
 
-**To run the Api**
-'''bash
-uvicorn api:app   
-.
-
+```bash
+Copy code
+uvicorn api:app
 
