@@ -50,3 +50,18 @@ This project fetches news articles about a company, summarizes them, checks thei
    ```bash
    git clone https://github.com/AliSayyed123/News-Summarizer-and-Talk-to-Speech-model.git
    cd News-Summarizer-and-Talk-to-Speech-model
+   Running the Project
+**You can run the project in two ways:**
+
+** Run the Streamlit Web App**
+**This provides a web-based UI to interact with the model.**
+
+'''bash
+streamlit run app.py
+
+**To run the Api**
+'''bash
+uvicorn api:app   
+.
+
+
