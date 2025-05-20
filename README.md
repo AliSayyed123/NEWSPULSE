@@ -72,12 +72,5 @@ uvicorn api:app --reload
 - Use the **Streamlit Web App** for an interactive experience.
 - Use the **FastAPI server** to integrate the service into other applications.
 
-## Contributing
-Feel free to contribute by forking the repository and submitting pull requests.
 
-
-
----
-
-For any issues or improvements, open a GitHub issue or reach out to the maintainers.
 
