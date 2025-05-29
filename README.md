@@ -44,33 +44,8 @@ This project fetches news articles about a company, summarizes them, performs se
 - **Git** - Install from [git-scm.com](https://git-scm.com/)
 - **Internet** - Required for news fetching, translation, and text-to-speech conversion.
 
-### Steps to Set Up
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/AliSayyed123/News-Summarizer-and-Talk-to-Speech-model.git
-   cd News-Summarizer-and-Talk-to-Speech-model
-   ```
-2. **Install Dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
+# Deployed Here :https://huggingface.co/spaces/SayyedAli/NEW-Summarizer_AND_TTS_MODEL?logs=container
 
-## Running the Project
-### Option 1: Run the Streamlit Web App  
-Provides a web-based UI to interact with the model.  
-```bash
-streamlit run app.py
-```
-
-### Option 2: Run the API Server  
-Starts the FastAPI server using Uvicorn.
-```bash
-uvicorn api:app --reload
-```
-
-## Usage
-- Use the **Streamlit Web App** for an interactive experience.
-- Use the **FastAPI server** to integrate the service into other applications.
 
 
 
