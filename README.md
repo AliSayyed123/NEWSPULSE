@@ -40,7 +40,8 @@ This project fetches news articles about a company, summarizes them, performs se
 
 
 
-# Deployed Here** :https://huggingface.co/spaces/SayyedAli/NEW-Summarizer_AND_TTS_MODEL?logs=container
+# Deployed Here** :
+https://huggingface.co/spaces/SayyedAli/NEW-Summarizer_AND_TTS_MODEL?logs=container
 
 
 
