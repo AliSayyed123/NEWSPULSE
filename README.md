@@ -1,4 +1,4 @@
-# NEWS_PULSE:News Summarizer and Text-to-Speech Model
+# NEWS_PULSE; AI NEWS SUMMARIZER
 
 This project fetches news articles about a company, summarizes them, performs sentiment analysis, extracts key topics, and converts the summaries into Hindi audio. It has two versions: a web application using Streamlit and an API server using FastAPI.
 
