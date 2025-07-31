@@ -38,13 +38,9 @@ This project fetches news articles about a company, summarizes them, performs se
 - **Google Translate (via Deep-Translator)** - Converts English text to Hindi.
 - **Google Text-to-Speech (via gTTS)** - Converts text summaries to Hindi audio.
 
-## Installation and Setup
-### Prerequisites
-- **Python 3.7+** - Download from [python.org](https://www.python.org/)
-- **Git** - Install from [git-scm.com](https://git-scm.com/)
-- **Internet** - Required for news fetching, translation, and text-to-speech conversion.
 
-# Deployed Here :https://huggingface.co/spaces/SayyedAli/NEW-Summarizer_AND_TTS_MODEL?logs=container
+
+# Deployed Here** :https://huggingface.co/spaces/SayyedAli/NEW-Summarizer_AND_TTS_MODEL?logs=container
 
 
 
