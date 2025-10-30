@@ -2,20 +2,18 @@
 
 This project fetches news articles about a company, summarizes them, performs sentiment analysis, extracts key topics, and converts the summaries into Hindi audio. It has two versions: a web application using Streamlit and an API server using FastAPI.
 
-## Features
-- Fetches news articles from Google News.
-- Summarizes articles into three sentences.
-- Performs sentiment analysis (Happy, Sad, or Neutral).
-- Extracts three main topics from each summary.
-- Converts summaries and overall analysis to Hindi audio.
-- Provides a web interface (Streamlit) or an API (FastAPI).
-
 ## Project Structure
 - **`app.py`** - Streamlit application for an interactive UI.
 - **`api.py`** - FastAPI server for API-based access.
 - **`utils.py`** - Helper functions for fetching, summarizing, sentiment analysis, etc.
 - **`requirements.txt`** - List of required dependencies.
 - **`README.md`** - Documentation.
+## Project demo
+![np1](images/np1.png)
+![np2](images/np2.png)
+![np3](images/np3.png)
+![np4](images/np4.png)
+
 
 ## Tech Stack
 ### Languages
@@ -42,6 +40,7 @@ This project fetches news articles about a company, summarizes them, performs se
 
 # Deployed Here** :
 https://huggingface.co/spaces/SayyedAli/NEW-Summarizer_AND_TTS_MODEL?logs=container
+
 
 
 
