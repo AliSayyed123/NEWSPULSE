@@ -9,10 +9,10 @@ This project fetches news articles about a company, summarizes them, performs se
 - **`requirements.txt`** - List of required dependencies.
 - **`README.md`** - Documentation.
 ## Project demo
-![np1](images/np1.png)
-![np2](images/np2.png)
-![np3](images/np3.png)
-![np4](images/np4.png)
+![np1](np1.png)
+![np2](np2.png)
+![np3](np3.png)
+![np4](np4.png)
 
 
 ## Tech Stack
@@ -40,6 +40,7 @@ This project fetches news articles about a company, summarizes them, performs se
 
 # Deployed Here** :
 https://huggingface.co/spaces/SayyedAli/NEW-Summarizer_AND_TTS_MODEL?logs=container
+
 
 
 
